@@ -11,7 +11,6 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.nar
 *.ear
@@ -29,6 +28,5 @@ hs_err_pid*
 .gradle/5.0/taskHistory/taskHistory.lock
 .gradle/buildOutputCleanup/buildOutputCleanup.lock
 build/distributions/Pi-2022-shadow.tar
-build/distributions/Pi-2022.tar
 .gradle/5.0/fileHashes/fileHashes.bin
 .gradle/5.0/fileHashes/fileHashes.bin
