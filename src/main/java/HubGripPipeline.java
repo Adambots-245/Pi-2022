@@ -1,5 +1,3 @@
-package frc.robot.vision;
-
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
